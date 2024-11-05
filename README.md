@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![My Tools](https://skillicons.dev/icons?i=nginx,docker,ansible,redis,postgres,mongodb,mysql,linux)](https://skillicons.dev)
 
 
-other:
-   Duilib for Windows....
+## other:
+   Duilib for Windows.... VC++ 
