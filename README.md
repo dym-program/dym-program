@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚒ Skills
-🥪 Front End / 🥗 Backend / 🍊 Network Security / Game Developer Backend / DevOps
+🥪 Front End(NextJS) / 🚀 Backend / ☕ Network Security /🍭 Game Developer Backend / 🌂 DevOps 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,lua,linux,go,python,docker,nextjs,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,go,python,typescript)](https://skillicons.dev)
+
+
+[![My Tools](https://skillicons.dev/icons?i=nginx,docker,ansible,redis,postgres,mysql,linux)](https://skillicons.dev)
+
+
+other:
+   Duilib for Windows
