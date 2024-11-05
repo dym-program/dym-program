@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚒ Skills
+🥪 Front End / 🥗 Backend / 🍊 Network Security / Game Developer Backend / DevOps
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,lua,linux,go,python,docker,nextjs,ansible)](https://skillicons.dev)
