@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 🥪 Front End(NextJS) / 🚀 Backend / ☕ Network Security /🍭 Game Developer Backend / 🌂 DevOps 
 
 ## My programming language
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,go,python,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,lua,go,python,typescript,vue)](https://skillicons.dev)
 
 ## My Tools List include:
-[![My Tools](https://skillicons.dev/icons?i=nginx,docker,ansible,redis,postgres,mysql,linux)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=nginx,docker,ansible,redis,postgres,mongodb,mysql,linux)](https://skillicons.dev)
 
 
 other:
